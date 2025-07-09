@@ -1,4 +1,4 @@
-.                                                                        
+/*.                                                                        
 .                   EEEEEEEEE                         TTTTTTTTTT         
 .                   EEEEEEEEEEEE                      TTTTTTTTTTTTT      
 .                   EEEEEEEEEEEEEE                    TTTTTTTTTTTTTTT    
@@ -31,5 +31,6 @@
  | '_ \ / _ \ __/ __| '__/ _` |  _| __|
  | | | |  __/ || (__| | | (_| | | | |_ 
  |_| |_|\___|\__\___|_|  \__,_|_|  \__|                                                    
-# Netcraft IOCs
-Indicators of compromise for threat activity published to https://www.netcraft.com/blog
+## Netcraft IOCs
+## Indicators of compromise for threat activity published to https://www.netcraft.com/blog
+*/
